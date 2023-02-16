@@ -1,5 +1,15 @@
-### Hi there 👋
+## <<< Welcome to Area 41 >>>
+### Reports the past, analyzes the present, and guides the future!
+...
 
+
+
+#### --: We are rebuilding the place, please come back soon.
+
+
+
+
+...
 <!--
 **area-41/area-41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +23,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+-->Bye there 👋
