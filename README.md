@@ -11,6 +11,8 @@
 -💬 Ask me about ...
 -📫 How to reach me: email.diferente.victor@gmail.com
 
+Google Profile -> https://www.cloudskillsboost.google/public_profiles/722af866-4f8c-486a-ab93-698f269893f9
+
 ### Languages and Technologies
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" width="40" height="40"/>
           
