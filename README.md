@@ -1,8 +1,8 @@
-### Hi, I'm Victor Marques. Big Data and data analysis combined with machine learning are what inspire me. Be welcome.
+### Hello there, be welcome to Area 41, the cyberspace where I share and develop some codes about Python, Java, Big Data, Machine Learning, Artificial Intelligence, IOT, and goes on. I'm Victor Marques, a Big Data analyst, and all the artificial intelligence and machine learning are what inspire me.
 
 👀 looking for opportunities
 
-|🌱 I’m currently learning a BackEnd course at ADA to complete my Big Data and Intelligence Analysis degree.
+|🌱 I’m currently learning ->  BackEnd - Java, at ADA. And studying pos graduation AI and ML.
 
 |🚧 I've been trying to collaborate in the OSB project, aiming to build methods and tools that can help the team to simplify and improve the inspection of contracts and data analysis objects.
 
