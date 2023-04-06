@@ -1,9 +1,16 @@
 ### Hello there, be welcome to Area 41,
 #### the cyberspace where I share and develop some codes about Python, Java, Big Data, Machine Learning, Artificial Intelligence, IOT, and goes on. 
 ------
-I'm Victor Marques, a Big Data analyst, and all the artificial intelligence and machine learning are what inspire me.
+Greetings! My name is Victor Marques, and I am a Big Data developer with experience in Machine Learning, Artificial Intelligence, IoT, Big Data, and Backend. My specialty is Machine Learning and Artificial Intelligence, where I have solid skills in building predictive models, data analysis, natural language processing, and computer vision.
+
+I also have experience in IoT, developing solutions for monitoring and controlling devices and integrating these devices with other technologies to create intelligent solutions. My knowledge of Big Data allows me to deal with large datasets and efficiently process them to extract handy insights.
+
+In addition, I have a good level of programming languages like Python and Java, which allow me to build robust and scalable Backend solutions. I can design and implement RESTful APIs, integrate third-party services, and build scalable cloud infrastructure using tools like AWS, Azure, or Google Cloud.
+
+I am enthusiastic about learning new technologies and keeping up to date with the latest trends in software development. I'm always anxious for ways to apply my skills to exciting and challenging new projects.
 
 
+-----
 👀 looking for opportunities
 
 |🌱 I’m currently learning ->  BackEnd - Java, at ADA. And studying pos graduation AI and ML, at PUC Minas.
