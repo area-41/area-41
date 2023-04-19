@@ -9,7 +9,7 @@ In addition, I have a good level of programming languages like Python and Java, 
 
 I am enthusiastic about learning new technologies and keeping up to date with the latest trends in software development. I'm always anxious for ways to apply my skills to exciting and challenging new projects.
 
-
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=area-41&layout=compact&theme=merko)
 -----
 👀 looking for opportunities
 
@@ -20,14 +20,21 @@ I am enthusiastic about learning new technologies and keeping up to date with th
 |🛸 I've been looking to help in any project that brings public benefits, such as personal and collective development. Get in touch!
 
 -💬 Ask me about ...
--📫 How to reach me: email.diferente.victor@gmail.com
+-📫 How to reach me: 
 
-Google Profile -> https://www.cloudskillsboost.google/public_profiles/722af866-4f8c-486a-ab93-698f269893f9
+<div>
+<a href="https://www.youtube.com/channel/UCRYtf96o5CUR-Mn5GbDA-fw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href = "mailto:email.diferente.victor@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/victor-marques-data-analyst/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.cloudskillsboost.google/public_profiles/722af866-4f8c-486a-ab93-698f269893f9" target="_blank"><img src="https://img.shields.io/badge/-Google GCP-%230077B5?style=for-the-badge&logo=google&logoColor=white" target="_blank"></a>
+</div>
+
 
 ### Languages and Technologies
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" width="40" height="40"/>
           
 
+![area-41 Status](https://github-readme-stats.vercel.app/api?username=area-41&show_icons=true&theme=merko)
 
 <!--
 **area-41/area-41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
