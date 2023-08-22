@@ -4,8 +4,6 @@
 Artificial Intelligence, and Machine Learning converge! Step into a world of limitless innovation,</br>
 where code comes to life and data shapes the future.</p>
 
-<p align="center"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" width="40" height="40"/></br></br>Used Languages and Technologies</p></br>
-
 <p style="color: #05ff3e" align="center">Reports the past, analyzes the present, and guides the future!</p>
 
 <p align="left"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/></p>
