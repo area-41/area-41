@@ -1,4 +1,4 @@
-<p align="center">Welcome to Area 41
+<p align="center">Welcome to Area 41</p>
 
 <p align="center">Welcome to our cutting-edge Tech Laboratory, where the realms of Python, Big Data,</br>
 Artificial Intelligence, and Machine Learning converge! Step into a world of limitless innovation,</br>
@@ -6,14 +6,13 @@ where code comes to life and data shapes the future.</p>
 
 <p style="color: #05ff3e" align="center">Reports the past, analyzes the present, and guides the future!</p>
 
-<p align="left"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/></p>
+
+### Repositórios em destaque
+
+<p align="left" style="padding-right: 60px;"><img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80"/></p>
           
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=area-41&repo=Python&show_owner=true&layout=donut&theme=transparent&title_color=05ff3e&text_color=05ff3e&icon_color=05ff3e&border_color=05ff3e&bg_color=000000&border_radius=30&hide_border=true&line_height=30&text_bold=true)](https://github.com/area-41/Python)    
-
-
-<p align="left"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/></p>    
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=area-41&repo=Back-End&show_owner=true&layout=donut&theme=transparent&title_color=05ff3e&text_color=05ff3e&icon_color=05ff3e&border_color=05ff3e&bg_color=000000&border_radius=30&hide_border=true&line_height=30&text_bold=true)](https://github.com/area-41/Back-End/tree/main/ProgramacaoOreintadaObjetos_02)   
+  
 
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=area-41&layout=donut&theme=transparent&title_color=05ff3e&text_color=05ff3e&icon_color=05ff3e&border_color=05ff3e&bg_color=000000&border_radius=30&card_width=800)
@@ -32,5 +31,4 @@ where code comes to life and data shapes the future.</p>
 -----
 If you wanna know more about me:
 [Author of this project](https://github.com/area-41/area-41/blob/main/AUTHOR.md).
-
 
