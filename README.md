@@ -1,13 +1,15 @@
-<p align="center">Welcome to Area 41</p>
+<p align="right"><a href="https://github.com/area-41/area-41/blob/main/README_E.md">English</a><img align="right" src="https://github.com/area-41/area-41/assets/87396846/70d37ac4-90dc-4c01-9cde-22c9aa7b3a6b" width="32" height="24"/></p>
+<p align="center">Área 41</p>
 
-<p align="center">Welcome to our cutting-edge Tech Laboratory, where the realms of Python, Big Data,</br>
-Artificial Intelligence, and Machine Learning converge! Step into a world of limitless innovation,</br>
-where code comes to life and data shapes the future.</p>
+<p align="center">Bem-vindo ao nosso laboratório de tecnologia, onde os domínios do Python, Big Data,
+Inteligência Artificial e Machine Learning convergem! Entre em um mundo de inovação ilimitada,
+onde o código ganha vida e os dados moldam o futuro.
+</p>
 
-<p style="color: #05ff3e" align="center">Reports the past, analyzes the present, and guides the future!</p>
+<p style="color: #05ff3e" align="center">Relata o passado, analisa o presente e orienta o futuro!</p>
 
 
-### Repositórios em destaque
+### Repositório em destaque
 
 <p align="left" style="padding-right: 60px;"><img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80"/></p>
           
@@ -24,11 +26,11 @@ where code comes to life and data shapes the future.</p>
 </br>
 
 
-### Area 41 | design by
+### Area 41 | Autores
 
-<font color=05ff3e>Hi there, thanks for joing us at Area 41, the cyberspace where I share and develop some codes about Python, Java, Big Data, Machine Learning, Artificial Intelligence, IOT, and goes on.</font> 
+<font color=05ff3e>Olá, obrigado por se juntar a nós na Area 41, o ciberespaço onde compartilho e desenvolvo alguns códigos sobre Python, Java, Big Data, Machine Learning, Inteligência Artificial, IOT e muito mais.</font> 
 
 -----
-If you wanna know more about me:
-[Author of this project](https://github.com/area-41/area-41/blob/main/AUTHOR.md).
+Se vc deseja saber mais sobre mim:
+[Autor do projeto](https://github.com/area-41/area-41/blob/main/AUTHOR.md).
 
