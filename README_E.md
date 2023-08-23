@@ -7,7 +7,7 @@ where code comes to life and data shapes the future.</p>
 <p style="color: #05ff3e" align="center">Reports the past, analyzes the present, and guides the future!</p>
 
 
-### Repositórios em destaque
+### Featured Repositories
 
 <p align="left" style="padding-right: 60px;"><img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80"/></p>
           
