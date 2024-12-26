@@ -12,11 +12,8 @@ onde o código ganha vida e os dados moldam o futuro.
 ![area-41 Status](https://github-readme-stats.vercel.app/api?username=area-41&theme=transparent&show_icons=true&title_color=05ff3e&text_color=05ff3e&icon_color=05ff3e&border_color=05ff3e&bg_color=&border_radius=30&card_width=800&hide=stars,contribs&show=reviews,prs_merged,prs_merged_percentage&hide_border=true&line_height=30&text_bold=true&hide_rank=true&layout=compact)
 
 
-### Repositório em destaque
-
-<p align="left" style="padding-right: 60px;"><img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80"/></p>
-          
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=area-41&repo=Python&show_owner=true&layout=donut&theme=transparent&title_color=05ff3e&text_color=05ff3e&icon_color=05ff3e&border_color=05ff3e&bg_color=000000&border_radius=30&hide_border=true&line_height=30&text_bold=true)](https://github.com/area-41/Python)    
+### Repositório em destaque          
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=area-41&repo=Python&show_owner=true&layout=donut&theme=transparent&title_color=05ff3e&text_color=05ff3e&icon_color=05ff3e&border_color=05ff3e&bg_color=&border_radius=30&hide_border=true&line_height=30&text_bold=true)](https://github.com/area-41/Python)    
   
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -27,7 +24,7 @@ onde o código ganha vida e os dados moldam o futuro.
 
 
 
-<p align="center"> <img align="center" src="https://profile-counter.glitch.me/area-41/count.svg" /></p>
+
 </br>
 
 
@@ -39,3 +36,5 @@ onde o código ganha vida e os dados moldam o futuro.
 Se vc deseja saber mais sobre mim:
 [Autor do projeto](https://github.com/area-41/area-41/blob/main/AUTHOR.md).
 
+
+<p align="center"> <img align="center" src="https://profile-counter.glitch.me/area-41/count.svg" /></p>
