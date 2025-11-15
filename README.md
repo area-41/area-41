@@ -1,16 +1,18 @@
 <p align="right"><a href="https://github.com/area-41/area-41/blob/main/README_E.md">English</a><img align="right" src="https://github.com/area-41/area-41/assets/87396846/70d37ac4-90dc-4c01-9cde-22c9aa7b3a6b" width="32" height="24"/></p>
 
 
-![banner_2_Area_41](https://github.com/user-attachments/assets/99cb11de-a8e4-42e4-bca0-76ede9e61514)
-
-
-
-
-</a><img align="right" src="https://avatars.githubusercontent.com/u/87396846?v=4" width="220" height="220"/>
 ###  <p align="center">Área 41</p>
 
 
 #### <p align="center">Bem-vindo ao laboratório de tecnologia onde domínios em Python, Big Data, Inteligência Artificial e Machine Learning, se convergem em busca de explorações e análises que dêem voz aos quintilhões de bytes de dados gerados diariamente e que moldam o mundo atualmente.</p>
+
+<img align="left" width="160" height="240" alt="image" src="https://github.com/user-attachments/assets/ffd5a040-172a-4624-96d6-24bd692c9430" />
+
+<p>Sobre mim</br>
+Analista de Dados e Engenheiro de Machine Learning com foco em Big Data, IA e soluções que geram impacto real. Desenvolvo pipelines escaláveis, modelos inteligentes e aplicações orientadas a resolver desafios.</br>
+Busco unir rigor técnico, visão de futuro e responsabilidade para transformar dados em valor — e valor em progresso. 🚀</p>
+
+  <p>Especialidades: Big Data • Machine Learning • IA aplicada • Engenharia e automação de dados • Visualização e storytelling analítico</p></br>
 
 ### <p style="color: #05ff3e" align="center">Relatar o passado, analisar o presente e orientar o futuro!</p>
 
