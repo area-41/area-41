@@ -1,4 +1,4 @@
-# 👨‍💻 Victor Marques
+## Victor Marques
 
 🎓 **Tecnólogo em Big Data e Inteligência Analítica**  
 🤖 **Especialista em Inteligência Artificial e Aprendizado de Máquina**  
@@ -12,16 +12,15 @@ Possuo forte interesse em projetos que utilizem **dados e IA como instrumentos q
 
 ---
 
-## 💼 Áreas de Especialização
+### Áreas de Especialização
 - Análise e Engenharia de Dados em ambientes distribuídos  
 - Desenvolvimento e implantação de modelos de Machine Learning  
 - Construção de pipelines de dados escaláveis e governados  
 - Analytics avançado e modelagem preditiva  
 - Automação, versionamento e boas práticas em projetos de dados  
 
----
 
-## 🛠️ Tecnologias & Ferramentas
+### Tecnologias & Ferramentas
 - **Linguagens:** Python (Avançado), SQL  
 - **Big Data & Analytics:** Apache Spark, Databricks, Pandas  
 - **Machine Learning:** Scikit-learn, MLflow, Tensor, Keras  
@@ -32,13 +31,9 @@ Possuo forte interesse em projetos que utilizem **dados e IA como instrumentos q
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-
----
-
-## 🌱 Visão Profissional
+### Visão Profissional
 Acredito no uso responsável e estratégico de dados para gerar **valor sustentável**, promover inovação e apoiar decisões baseadas em evidências. Busco constante evolução técnica e participação em projetos colaborativos que ampliem o alcance positivo da tecnologia de forma livre e acessível a todos.
 
-📫 **Aberto a colaborações, pesquisas aplicadas e projetos de dados.**
 
----
-_Transformando dados em conhecimento, e conhecimento em impacto._
+<p align="center">Aberto a colaborações, pesquisas aplicadas e projetos de dados</br><img width="350" height="92" alt="image" src="https://github.com/user-attachments/assets/90167095-0b93-41ee-9e19-3af6ce73e08d" /></p>
+
