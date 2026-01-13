@@ -25,7 +25,8 @@ Possuo forte interesse em projetos que utilizem **dados e IA como instrumentos q
 - **Big Data & Analytics:** Apache Spark, Databricks, Pandas  
 - **Machine Learning:** Scikit-learn, MLflow, Tensor, Keras  
 - **Cloud & Plataformas:** AWS, Google Cloud Platform (GCP), Azure  
-- **Ecossistema:** Git, CI/CD, APIs, Visualização de Dados  
+- **Ecossistema:** Git, CI/CD, APIs,
+- **Visualização de Dados:** [Tableau](https://public.tableau.com/app/profile/victor.marques5780/vizzes), Power BI, Matplotlib
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
