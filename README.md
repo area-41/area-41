@@ -4,9 +4,9 @@
 🤖 **Especialista em Inteligência Artificial e Aprendizado de Máquina**  
 🐍 **Especialização em andamento: Python Avançado**
 
-Olá, obrigado por visitar meu Github. Me chamo Victor e sou profissional na área de dados com formação em **Big Data, Analytics e Inteligência Artificial**, focado no desenvolvimento de soluções analíticas e modelos de aprendizado de máquina orientados a dados, escala e qualidade. Transformação de grandes volumes de dados em **informação estratégica para tomada de decisão**, sempre alinhado a boas práticas de engenharia, governança e ética. Trabalho com uma pitada de humor, sempre, para o dia ficar mais leve.
+Hey there, bem-vindo ao meu Github! Me chamo Victor, profissional na área de dados em **Big Data, Analytics e Inteligência Artificial**, focado no desenvolvimento de soluções analíticas e modelos de aprendizado de máquina orientados a dados, escala e qualidade. Transformação de grandes volumes de dados em **informação estratégica para tomada de decisão**, sempre alinhado a boas práticas de engenharia, governança e ética. Trabalho com uma pitada de humor, sempre, para o dia ficar mais leve. Minerando e lapidando dados para que se tenham alto valor, não apenas monetário como social.
 
-Possuo forte interesse em projetos que utilizem **dados e IA como instrumentos que geram resultado**, contribuindo para a mitigação de riscos ou problemas por meio de análises robustas e modelos confiáveis. Talvez possamos poluir menos economizando
+Possuo forte interesse em projetos que utilizem **dados e IA como instrumentos que geram resultado**, contribuindo para a mitigação de riscos ou problemas por meio de análises robustas e modelos confiáveis. Talvez possamos poluir menos economizando ao processarmos apenas os dados necessários. Python para tudo e para todos, mas não apenas Python. 
 
 ---
 
