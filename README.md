@@ -13,15 +13,15 @@ Possuo forte interesse em projetos que utilizem **dados e IA como instrumentos q
 ---
 
 ### Áreas de Especialização
-- Análise e Engenharia de Dados em ambientes distribuídos  
+- [Análise](https://github.com/area-41/InteligenciaAnalitica) e Engenharia de Dados em ambientes distribuídos  
 - Desenvolvimento e implantação de modelos de Machine Learning  
 - Construção de pipelines de dados escaláveis e governados  
-- Analytics avançado e modelagem preditiva  
+- Analytics avançado e [modelagem preditiva](https://github.com/area-41/MachineLearning)
 - Automação, versionamento e boas práticas em projetos de dados  
 
 
 ### Tecnologias & Ferramentas
-- **Linguagens:** Python (Avançado), SQL  
+- **Linguagens:** [Python](https://github.com/area-41/Python) (Avançado), SQL  
 - **Big Data & Analytics:** Apache Spark, Databricks, Pandas  
 - **Machine Learning:** Scikit-learn, MLflow, Tensor, Keras  
 - **Cloud & Plataformas:** AWS, Google Cloud Platform (GCP), Azure  
