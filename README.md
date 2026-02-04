@@ -35,6 +35,8 @@ Possuo forte interesse em projetos que utilizem **dados e IA como instrumentos q
 ### Visão Profissional - [email](mailto:victor.marques.ai@gmail.com)
 Acredito no uso responsável e estratégico de dados para gerar **valor sustentável**, promover inovação e apoiar decisões baseadas em evidências. Busco constante evolução técnica e participação em projetos colaborativos que ampliem o alcance positivo da tecnologia de forma livre e acessível a todos.
 
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/6d6e213d-7384-4537-ad96-562ca37d6eee" /> [Minha conta no Kaggle.com](https://www.kaggle.com/area41)
+
 <p align="center">Aberto a colaborações, pesquisas aplicadas e projetos de dados</p>
 <p align="center"><img width="320" height="80" alt="image" src="https://github.com/user-attachments/assets/90167095-0b93-41ee-9e19-3af6ce73e08d" /></p>
 
