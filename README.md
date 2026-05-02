@@ -16,21 +16,21 @@ Atualmente, o hub foca em quatro pilares fundamentais:
 
 | Projeto | Domínio | Status |
 | :--- | :--- | :--- |
-| **[SugeStock](./)** | Fintech / Predição | `Em Produção` |
+| **[SugeStock](https://github.com/area-41/Sugestock)** | Fintech / Predição | `Em Produção` |
 | **[AutoCheck](./)** | Automação / IoT | `Desenvolvimento` |
 | **[Reverti](./)** | Sustentabilidade / CV | `MVP` |
-| **[Q-Shield](./)** | Segurança / Quantum | `Pesquisa` |
+| **[Python](https://github.com/area-41/Python)** | Códigos vários níveis | `Pesquisa` |
 
 ---
 
-### 👥 Desenvolvimento Colaborativo
+### Desenvolvimento Colaborativo
 A Area-41 é um espaço aberto. Acreditamos que a tecnologia deve ser livre, acessível e voltada ao impacto social.
 *   **Open Source:** Contribuições no projeto OSB para melhoria de análise de contratos.
 *   **Networking:** Interessado em colaborações em pipelines de dados e arquiteturas escaláveis.
 
 ---
 
-### 👤 Sobre o Desenvolvedor
+### Sobre o Desenvolvedor
 Para informações detalhadas sobre as certificações, formação acadêmica na **UTFPR**, stack tecnológica completa e contatos profissionais:
 
 👉 **[Acesse o perfil completo do autor aqui (AUTHOR.md)](./AUTHOR.md)**
