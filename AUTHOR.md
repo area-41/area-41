@@ -1,53 +1,44 @@
-# AUTHOR
+# # AUTHOR 🚀
 
+Greetings! My name is **Victor Marques**, and I am a Data Science professional and Analytics Engineer. I specialize in building intelligent, scalable solutions by bridging the gap between **Big Data, Machine Learning, and Robust Software Engineering.**
 
+My core expertise lies in **Artificial Intelligence and Machine Learning**, with solid experience in predictive modeling, computer vision (YOLOv8), and natural language processing. Currently, I am deepening my technical rigor through an **Advanced Python specialization at UTFPR**, focusing on modular architecture, clean code, and OOP.
 
-Greetings! My name is Victor Marques, and I am a Big Data developer with experience in Machine Learning, Artificial Intelligence, IoT, Big Data, and Backend. My specialty is Machine Learning and Artificial Intelligence, where I have solid skills in building predictive models, data analysis, natural language processing, and computer vision.
+### 🛠️ Technical Focus & Expertise
+*   **Modern Data Stack:** Specialized in **Databricks** orchestration, leveraging Delta Lake, Unity Catalog, and PySpark to build high-performance Lakehouses.
+*   **MLOps & Industrialization:** Experienced in automating the machine learning lifecycle using **GitHub Actions, Docker, and CI/CD pipelines** to ensure models are production-ready.
+*   **IoT & Automation:** I develop integrated solutions for device monitoring and control (like the *AutoCheck* project), merging hardware data with intelligent backend systems.
+*   **Backend & Cloud:** Proficient in **Python and Java**, I design RESTful APIs and scalable cloud infrastructure on **AWS, GCP, and Azure**.
 
-I also have experience in IoT, developing solutions for monitoring and controlling devices and integrating these devices with other technologies to create intelligent solutions. My knowledge of Big Data allows me to deal with large datasets and efficiently process them to extract handy insights.
+I am a firm believer in using data as a strategic asset for decision-making while maintaining high standards of governance, ethics, and sustainability.
 
-In addition, I have a good level of programming languages like Python and Java, which allow me to build robust and scalable Backend solutions. I can design and implement RESTful APIs, integrate third-party services, and build scalable cloud infrastructure using tools like AWS, Azure, or Google Cloud.
+---
 
-I am enthusiastic about learning new technologies and keeping up to date with the latest trends in software development. I'm always anxious for ways to apply my skills to exciting and challenging new projects.
+### 👀 Looking for opportunities & Collaborations
 
-------
-👀 looking for opportunities
+*   **🌱 Currently Learning:** Advanced Python (UTFPR) and exploring **Post-Quantum Cryptography (PQC)** applied to health data.
+*   **🚧 Active Projects:** 
+    *   **SugeStock:** Financial forecasting and automated reporting ecosystem.
+    *   **Reverti:** Computer vision for waste management and recycling.
+    *   **OSB Project:** Building tools to simplify contract inspection and data analysis.
+*   **🛸 Social Impact:** I am always looking to contribute to Open Source or projects that generate public/social value. Get in touch!
 
-|🌱 I’m currently learning ->  BackEnd - Java, at ADA. And studying pos graduation AI and ML, at PUC Minas.
+---
 
-|🚧 I've been trying to collaborate in the OSB project, aiming to build methods and tools that can help the team to simplify and improve the inspection of contracts and data analysis objects.
+### 💬 Ask me about...
+*   Databricks & PySpark orchestration.
+*   MLOps and Python project structuring (`src/`, `tests/`, `uv`).
+*   Computer Vision and YOLOv8.
+*   The urban aesthetic of Curitiba and cycling!
 
-|🛸 I've been looking to help in any project that brings public benefits, such as personal and collective development. Get in touch!
-
--💬 Ask me about ...
--📫 How to reach me: 
+### 📫 How to reach me:
 
 <div>
-<a href="https://www.youtube.com/channel/UCRYtf96o5CUR-Mn5GbDA-fw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href = "mailto:email.diferente.victor@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/victor-marques-data-analyst/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/722af866-4f8c-486a-ab93-698f269893f9" target="_blank"><img src="https://img.shields.io/badge/-Google GCP-%230077B5?style=for-the-badge&logo=google&logoColor=white" target="_blank"></a>
+<a href="[https://www.youtube.com/channel/UCRYtf96o5CUR-Mn5GbDA-fw](https://www.youtube.com/channel/UCRYtf96o5CUR-Mn5GbDA-fw)" target="_blank"><img src="[https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)"></a>
+<a href="mailto:victor.marques.ai@gmail.com"><img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)"></a>
+<a href="[https://www.linkedin.com/in/victor-marques-data-analyst/](https://www.linkedin.com/in/victor-marques-data-analyst/)" target="_blank"><img src="[https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)"></a>
+<a href="[https://www.cloudskillsboost.google/public_profiles/722af866-4f8c-486a-ab93-698f269893f9](https://www.cloudskillsboost.google/public_profiles/722af866-4f8c-486a-ab93-698f269893f9)" target="_blank"><img src="[https://img.shields.io/badge/-Google_GCP-%234285F4?style=for-the-badge&logo=google-cloud&logoColor=white](https://img.shields.io/badge/-Google_GCP-%234285F4?style=for-the-badge&logo=google-cloud&logoColor=white)"></a>
 </div>
 
-<!--
-**area-41/area-41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
--->
-
-
-
-
-...
-Bye there 👋
+---
+*“Mining and refining data to deliver high value—not just monetary, but social.”* 👋
