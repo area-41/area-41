@@ -1,44 +1,41 @@
-# Victor Marques | Data Science & Analytics Engineering
+# 🛸 Area-41 | Research & Development Hub
 
-Cientista de Dados e Engenheiro de Analytics focado na industrialização de modelos de Machine Learning e orquestração de dados em larga escala. Atualmente, aprofundo conhecimentos em Python Avançado pela UTFPR, aplicando boas práticas de engenharia de software para transformar dados brutos em ativos estratégicos de alto valor.
+Bem-vindo à **Area-41**. Este não é apenas um perfil de usuário, mas um laboratório de desenvolvimento focado em transformar dados brutos em inteligência estratégica. Aqui, projetos de **Big Data**, **MLOps** e **IA** são industrializados sob rigorosos padrões de engenharia de software.
 
-> **"Relatar o passado, analisar o presente e orientar o futuro!"**
+### 🧪 Áreas de Exploração e Pesquisa
+Atualmente, o hub foca em quatro pilares fundamentais:
 
----
-
-### Especialização Técnica
-
-Minha atuação concentra-se na intersecção entre a ciência de dados aplicada e a engenharia robusta:
-
-*   **Orquestração e Big Data:** Foco principal em ambientes Databricks, utilizando Delta Lake, Unity Catalog e PySpark para construção de Lakehouses escaláveis.
-*   **MLOps & Ciclo de Vida:** Implementação de pipelines de CI/CD automatizados com GitHub Actions, Docker e gerenciamento de dependências com UV.
-*   **Engenharia de Software para Dados:** Desenvolvimento modular seguindo padrões de código limpo (Clean Code), Programação Orientada a Objetos (OOP) e arquiteturas organizadas (src/tests/models).
-*   **Modelagem Avançada:** Experiência com Visão Computacional (YOLOv8), séries temporais para predições financeiras e exploração de Criptografia Pós-Quântica (PQC) aplicada.
-
-
-### Projetos em Destaque
-
-*   **Automação Industrial:** Desenvolvimento do *AutoCheck*, um sistema inteligente para checkout automatizado em larga escala.
-*   **Inteligência Financeira:** Mantenedor do *SugeStock*, um ecossistema de predição e relatórios financeiros com fluxos automatizados de dados.
-*   **Visão Computacional:** Projeto *Reverti*, focado na identificação e classificação de resíduos para reciclagem utilizando YOLOv8.
-*   **Inovação & Saúde:** Arquitetura técnica da *Q-Shield Health*, explorando segurança de dados em saúde através de computação quântica.
-
-
-### Stack Tecnológico
-
-*   **Linguagens:** Python (Avançado), SQL, PySpark.
-*   **Dados:** Databricks, Delta Lake, Pandas, Polars.
-*   **Machine Learning:** Scikit-learn, MLflow, YOLOv8, TensorFlow.
-*   **Infraestrutura & DevOps:** Docker, GitHub Actions, CI/CD, UV, Git.
-*   **Visualização:** Tableau, Power BI, Matplotlib, Seaborn.
+*   **Data Orchestration:** Desenvolvimento de arquiteturas modernas em **Databricks**, utilizando Delta Lake e Unity Catalog para governança e escala.
+*   **Applied Intelligence:** Modelagem avançada com foco em Visão Computacional (**YOLOv8**) e Análise Preditiva para os setores financeiro e industrial.
+*   **Engineering Excellence:** Implementação de práticas de **MLOps**, automação com GitHub Actions e gestão de ambientes performáticos com `uv`.
+*   **Future Security:** Pesquisa em **Criptografia Pós-Quântica (PQC)** aplicada à segurança de dados sensíveis.
 
 ---
 
-### 📫 Conecte-se comigo
+### 🚀 Projetos em Destaque no Hub
 
-*   **Email:** [victor.marques.ai@gmail.com](mailto:victor.marques.ai@gmail.com)
-*   **Portfólio:** Confira meus repositórios para ver a implementação de arquiteturas de dados modernas e práticas de MLOps.
-*   **Kaggle:** [Minha conta no Kaggle](https://www.kaggle.com/area41)
+| Projeto | Domínio | Status |
+| :--- | :--- | :--- |
+| **[SugeStock](./)** | Fintech / Predição | `Em Produção` |
+| **[AutoCheck](./)** | Automação / IoT | `Desenvolvimento` |
+| **[Reverti](./)** | Sustentabilidade / CV | `MVP` |
+| **[Q-Shield](./)** | Segurança / Quantum | `Pesquisa` |
 
 ---
-*Interessado em colaborações em projetos de orquestração de dados, inteligência artificial aplicada e arquiteturas escaláveis.*
+
+### 👥 Desenvolvimento Colaborativo
+A Area-41 é um espaço aberto. Acreditamos que a tecnologia deve ser livre, acessível e voltada ao impacto social.
+*   **Open Source:** Contribuições no projeto OSB para melhoria de análise de contratos.
+*   **Networking:** Interessado em colaborações em pipelines de dados e arquiteturas escaláveis.
+
+---
+
+### 👤 Sobre o Desenvolvedor
+Para informações detalhadas sobre as certificações, formação acadêmica na **UTFPR**, stack tecnológica completa e contatos profissionais:
+
+👉 **[Acesse o perfil completo do autor aqui (AUTHOR.md)](./AUTHOR.md)**
+
+---
+<p align="center">
+  <i>"Minerando e lapidando dados para gerar valor social e tecnológico."</i>
+</p>
