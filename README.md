@@ -1,8 +1,8 @@
-# 🛸 Area-41 | Research & Development Hub
+# 🛸 Area-41 | Research & Development Hub 🧪
 
 Bem-vindo à **Area-41**. Este não é apenas um perfil de usuário, mas um laboratório de desenvolvimento focado em transformar dados brutos em inteligência estratégica. Aqui, projetos de **Big Data**, **MLOps** e **IA** são industrializados sob rigorosos padrões de engenharia de software.
 
-### 🧪 Áreas de Exploração e Pesquisa
+### Áreas de Exploração e Pesquisa
 Atualmente, o hub foca em quatro pilares fundamentais:
 
 *   **Data Orchestration:** Desenvolvimento de arquiteturas modernas em **Databricks**, utilizando Delta Lake e Unity Catalog para governança e escala.
@@ -12,20 +12,19 @@ Atualmente, o hub foca em quatro pilares fundamentais:
 
 ---
 
-### 🚀 Projetos em Destaque no Hub
+### Projetos em Destaque no Hub
 
 | Projeto | Domínio | Status |
 | :--- | :--- | :--- |
 | **[SugeStock](https://github.com/area-41/Sugestock)** | Fintech / Predição | `Em Produção` |
-| **[AutoCheck](./)** | Automação / IoT | `Desenvolvimento` |
-| **[Reverti](./)** | Sustentabilidade / CV | `MVP` |
-| **[Python](https://github.com/area-41/Python)** | Códigos vários níveis | `Pesquisa` |
+| **[ML e AI](https://github.com/area-41/IA)** | IA | `Algoritmos de Inteligência Artificial` |
+| **[Python](https://github.com/area-41/Python)** | Códigos vários níveis | `Estudos e Aprimoramentos` |
 
 ---
 
 ### Desenvolvimento Colaborativo
 A Area-41 é um espaço aberto. Acreditamos que a tecnologia deve ser livre, acessível e voltada ao impacto social.
-*   **Open Source:** Contribuições no projeto OSB para melhoria de análise de contratos.
+*   **Open Source:** Contribuições em projetos para melhorias contínuas.
 *   **Networking:** Interessado em colaborações em pipelines de dados e arquiteturas escaláveis.
 
 ---
@@ -33,7 +32,7 @@ A Area-41 é um espaço aberto. Acreditamos que a tecnologia deve ser livre, ace
 ### Sobre o Desenvolvedor
 Para informações detalhadas sobre as certificações, formação acadêmica na **UTFPR**, stack tecnológica completa e contatos profissionais:
 
-👉 **[Acesse o perfil completo do autor aqui (AUTHOR.md)](./AUTHOR.md)**
+👉 **[Acesse o perfil do autor aqui](./AUTHOR.md)**
 
 ---
 <p align="center">
