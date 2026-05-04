@@ -10,7 +10,6 @@ Atualmente, o hub foca em quatro pilares fundamentais:
 *   **Engineering Excellence:** Implementação de práticas de **MLOps**, automação com GitHub Actions e gestão de ambientes performáticos com `uv`.
 *   **Future Security:** Pesquisa em **Criptografia Pós-Quântica (PQC)** aplicada à segurança de dados sensíveis.
 
----
 
 ### Projetos em Destaque no Hub
 
@@ -27,7 +26,6 @@ A Area-41 é um espaço aberto. Acreditamos que a tecnologia deve ser livre, ace
 *   **Open Source:** Contribuições em projetos para melhorias contínuas.
 *   **Networking:** Interessado em colaborações em pipelines de dados e arquiteturas escaláveis.
 
----
 
 ### Sobre o Desenvolvedor
 Para informações detalhadas sobre as certificações, formação acadêmica na **UTFPR**, stack tecnológica completa e contatos profissionais:
@@ -37,4 +35,8 @@ Para informações detalhadas sobre as certificações, formação acadêmica na
 ---
 <p align="center">
   <i>"Minerando e lapidando dados para gerar valor social e tecnológico."</i>
+  <i><img width="540" height="242" alt="placa" src="https://github.com/user-attachments/assets/b91647bb-6782-4961-91d6-0203412ffbe4" /></i>
 </p>
+
+
+
