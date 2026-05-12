@@ -15,6 +15,7 @@ Atualmente, o hub foca em quatro pilares fundamentais:
 
 | Projeto | Domínio | Status |
 | :--- | :--- | :--- |
+| **[Computação Distribuída](https://github.com/area-41/Computacao_Distribuida)** | TCP, UDP, Multithread, Multicast | `Estudos e Aprimoramentos` |
 | **[SugeStock](https://github.com/area-41/Sugestock)** | Fintech / Predição | `Em Produção` |
 | **[ML e AI](https://github.com/area-41/IA)** | IA | `Algoritmos de Inteligência Artificial` |
 | **[Python](https://github.com/area-41/Python)** | Códigos vários níveis | `Estudos e Aprimoramentos` |
