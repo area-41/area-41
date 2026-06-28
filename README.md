@@ -3,12 +3,12 @@
 Bem-vindo à **Area-41**. Este não é apenas um perfil de usuário, mas um laboratório de desenvolvimento focado em transformar dados brutos em inteligência estratégica. Aqui, projetos de **Big Data**, **MLOps** e **IA** são industrializados sob rigorosos padrões de engenharia de software.
 
 ### Áreas de Exploração e Pesquisa
-Atualmente, o hub foca em quatro pilares fundamentais:
+Atualmente, o hub foca nos seguintes pilares fundamentais:
 
-*   **Data Orchestration:** Desenvolvimento de arquiteturas modernas em **Databricks**, utilizando Delta Lake e Unity Catalog para governança e escala.
+*   **Data Orchestration:** Análise de arquiteturas modernas, **Databricks** utilizando Delta Lake e Unity Catalog e uma opção open source (DuckDB + Dagster + Dask + Polars) para governança e escala.
 *   **Applied Intelligence:** Modelagem avançada com foco em Visão Computacional (**YOLOv8**) e Análise Preditiva para os setores financeiro e industrial.
 *   **Engineering Excellence:** Implementação de práticas de **MLOps**, automação com GitHub Actions e gestão de ambientes performáticos com `uv`.
-*   **Future Security:** Pesquisa em **Criptografia Pós-Quântica (PQC)** aplicada à segurança de dados sensíveis.
+  
 
 
 ### Projetos em Destaque no Hub
@@ -16,6 +16,7 @@ Atualmente, o hub foca em quatro pilares fundamentais:
 | Projeto | Domínio | Status |
 | :--- | :--- | :--- |
 | **[Computação Distribuída](https://github.com/area-41/Computacao_Distribuida)** | TCP, UDP, Multithread, Multicast | `Estudos e Aprimoramentos` |
+| **[Pipeline de Dados Medalhão](https://github.com/area-41/DuckDB-Dagster-Dask-Polars)** | `DuckDB + Dagster + Dask + Polars` | `Em Desenvovlimento` |
 | **[SugeStock](https://github.com/area-41/Sugestock)** | Fintech / Predição | `Em Produção` |
 | **[ML e AI](https://github.com/area-41/IA)** | IA | `Algoritmos de Inteligência Artificial` |
 | **[Python](https://github.com/area-41/Python)** | Códigos vários níveis | `Estudos e Aprimoramentos` |
