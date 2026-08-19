@@ -1,4 +1,4 @@
-# 🛸 Area-41 | Research & Development Hub 🧪
+# Area-41 | Research & Development Hub
 
 Bem-vindo à **Area-41**. Este não é apenas um perfil de usuário, mas um laboratório de desenvolvimento focado em transformar dados brutos em inteligência estratégica. Aqui, projetos de **Big Data**, **MLOps** e **IA** são industrializados sob rigorosos padrões de engenharia de software.
 
