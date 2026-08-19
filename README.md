@@ -37,7 +37,6 @@ Para informações detalhadas sobre as certificações, formação acadêmica na
 ---
 <p align="center">
   <i>"Minerando e lapidando dados para gerar valor social e tecnológico."</i>
-  <i><img width="540" height="242" alt="placa" src="https://github.com/user-attachments/assets/b91647bb-6782-4961-91d6-0203412ffbe4" /></i>
 </p>
 
 
