@@ -1,6 +1,6 @@
 # Area-41 | Research & Development Hub
 
-Bem-vindo à **Area-41**. Este não é apenas um perfil de usuário, mas um laboratório de desenvolvimento focado em transformar dados brutos em inteligência estratégica. Aqui, projetos de **Big Data**, **MLOps** e **IA** são industrializados sob rigorosos padrões de engenharia de software.
+Bem-vindo ao **Area-41**. Este repositório central atua como um hub de pesquisa e desenvolvimento dedicado a transformar dados brutos em inteligência estratégica de negócios. Aqui, arquiteturas de **Engenharia de Dados**, pipelines de **MLOps** e soluções de **Inteligência Artificial** são desenvolvidas aplicando boas práticas de engenharia de software e foco em performance.
 
 ### Áreas de Exploração e Pesquisa
 Atualmente, o hub foca nos seguintes pilares fundamentais:
@@ -15,6 +15,7 @@ Atualmente, o hub foca nos seguintes pilares fundamentais:
 
 | Projeto | Domínio | Status |
 | :--- | :--- | :--- |
+| **[RPA & Automações](https://github.com/area-41/RPA)** | `FastAPI`, `Selenium`, `Tesseract OCR`, `uv` | Automação de Processos & Ingestão | `Ativo` |
 | **[Computação Distribuída](https://github.com/area-41/Computacao_Distribuida)** | TCP, UDP, Multithread, Multicast | `Estudos e Aprimoramentos` |
 | **[Pipeline de Dados Medalhão](https://github.com/area-41/DuckDB-Dagster-Dask-Polars)** | `DuckDB + Dagster + Dask + Polars` | `Em Desenvovlimento` |
 | **[SugeStock](https://github.com/area-41/Sugestock)** | Fintech / Predição | `Em Produção` |
@@ -39,5 +40,10 @@ Para informações detalhadas sobre as certificações, formação acadêmica na
   <i>"Minerando e lapidando dados para gerar valor social e tecnológico."</i>
 </p>
 
+
+[![GitHub Profile](https://img.shields.io/badge/GitHub-area--41-181717?style=flat&logo=github&logoColor=white)](https://github.com/area-41)
+[![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Data Engineering](https://img.shields.io/badge/Data_Engineering-Pipeline_&_MLOps-0052CC?style=flat)](https://github.com/area-41)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat)](https://opensource.org/licenses/MIT)
 
 
