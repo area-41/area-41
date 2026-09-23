@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Observatório Demográfico - PyScript & Pandas</title>
+
+  <!-- PyScript CSS & JS -->
+  <link rel="stylesheet" href="https://pyscript.net/releases/2024.1.1/core.css">
+  <script type="module" src="https://pyscript.net/releases/2024.1.1/core.js"></script>
+
+  <!-- Py-Config: Carrega o Pandas via WebAssembly -->
+  <py-config>
+    packages = ["pandas"]
+  </py-config>
+
+  <!-- Estilos e PrismJS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism-tomorrow.min.css" />
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- BARRA LATERAL (MENU) -->
+  <aside>
+    <h3>Observatório</h3>
+    <ul>
+      <li><a href="#etapa1" class="active">1. Inicialização</a></li>
+      <li><a href="#etapa2">2. HTML & PyScript</a></li>
+      <li><a href="#etapa3">3. Processamento Pandas</a></li>
+      <li><a href="#etapa4">4. Resultados & Tabela</a></li>
+    </ul>
+
+    <div style="margin-top: 30px; font-size: 11px; color: #707070;">
+      Status Wasm: <span id="wasm-status" style="color: #d97706; font-weight: bold;">Carregando...</span>
+    </div>
+  </aside>
+
+  <!-- CONTEÚDO PRINCIPAL -->
+  <main>
+    <section id="etapa1">
+      <div class="step-header">
+        <span class="badge">1</span>
+        <div>
+          <p class="step-subtitle">ETAPA 1</p>
+          <h2 class="step-title">Inicialização e Arquitetura</h2>
+        </div>
+      </div>
+      <p>Esta aplicação roda inteiramente no lado cliente (Client-Side) utilizando <strong>WebAssembly (Wasm)</strong> através do PyScript. Nenhum servidor backend Python é necessário.</p>
+    </section>
+
+    <section id="etapa2">
+      <div class="step-header">
+        <span class="badge">2</span>
+        <div>
+          <p class="step-subtitle">ETAPA 2</p>
+          <h2 class="step-title">Configuração do PyScript</h2>
+        </div>
+      </div>
+      <div class="description-box">
+        Declaramos o ambiente Python e as dependências diretamente no cabeçalho HTML usando a tag &lt;py-config&gt;.
+      </div>
+    </section>
+
+    <section id="etapa3">
+      <div class="step-header">
+        <span class="badge">3</span>
+        <div>
+          <p class="step-subtitle">ETAPA 3</p>
+          <h2 class="step-title">Processamento com Pandas</h2>
+        </div>
+      </div>
+      <p>O script Python abaixo executa um DataFrame de exemplo simulando dados demográficos do IBGE:</p>
+      
+      <!-- Script Python executado no navegador -->
+      <script type="py" src="./app.py"></script>
+
+      <div style="margin-top: 20px;">
+        <button id="btn-executar" py-click="analisar_dados" style="padding: 10px 20px; background: #6366f1; color: white; border: none; border-radius: 6px; cursor: pointer; font-weight: 600;">
+          Executar Análise com Pandas
+        </button>
+      </div>
+    </section>
+
+    <section id="etapa4">
+      <div class="step-header">
+        <span class="badge">4</span>
+        <div>
+          <p class="step-subtitle">ETAPA 4</p>
+          <h2 class="step-title">Resultados na Tela</h2>
+        </div>
+      </div>
+      <div id="output" style="background: #1e1e1e; color: #22c55e; padding: 16px; border-radius: 8px; font-family: monospace; font-size: 13px; min-height: 120px; white-space: pre-wrap; margin-top: 20px;">
+        Aguardando execução do script Python...
+      </div>
+    </section>
+  </main>
+
+  <!-- Script de ScrollSpy (JS) -->
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const sections = document.querySelectorAll('main > section');
+      const navLinks = document.querySelectorAll('aside ul li a');
+
+      const observerOptions = {
+        root: null,
+        rootMargin: '-30% 0px -40% 0px',
+        threshold: 0
+      };
+
+      const observerCallback = (entries) => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            const currentId = entry.target.getAttribute('id');
+            navLinks.forEach(link => link.classList.remove('active'));
+            const activeLink = document.querySelector(`aside a[href="#${currentId}"]`);
+            if (activeLink) activeLink.classList.add('active');
+          }
+        });
+      };
+
+      const observer = new IntersectionObserver(observerCallback, observerOptions);
+      sections.forEach(section => observer.observe(section));
+    });
+  </script>
+</body>
+</html>
