@@ -1,26 +1,49 @@
-<div align="center" style="background-color: #030804; padding: 40px; border-radius: 8px; border: 1px solid #0f3818;">
+# Area-41 | Research & Development Hub
 
-  <!-- LOGO ANIMADO EM NEON -->
-  <a href="https://area-41.github.io/area-41/">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=55&pause=1000&color=00FF66&center=true&vCenter=true&width=600&height=100&lines=%E2%8F%81+%C3%81REA-41+%E2%8F%81;CYBER-DATA+LAB" alt="ÁREA-41 Alien Tech Logo" />
-  </a>
+Bem-vindo ao **Area-41**. Este repositório central atua como um hub de pesquisa e desenvolvimento dedicado a transformar dados brutos em inteligência estratégica de negócios. Aqui, arquiteturas de **Engenharia de Dados**, pipelines de **MLOps** e soluções de **Inteligência Artificial** são desenvolvidas aplicando boas práticas de engenharia de software e foco em performance.
 
-  <br>
+### Áreas de Exploração e Pesquisa
+Atualmente, o hub foca nos seguintes pilares fundamentais:
 
-  <!-- GLIFOS ALIENÍGENAS / STATUS DO SISTEMA -->
-  <p style="font-family: monospace; color: #528c60; font-size: 14px; letter-spacing: 2px;">
-    <code>⎍⎎⍜ ⍟ ⏃⍀⟒⏃-41 ☌⎍⎎⍜</code>
-  </p>
+*   **Data Orchestration:** Análise de arquiteturas modernas, **Databricks** utilizando Delta Lake e Unity Catalog e uma opção open source (DuckDB + Dagster + Dask + Polars) para governança e escala.
+*   **Applied Intelligence:** Modelagem avançada com foco em Visão Computacional (**YOLOv8**) e Análise Preditiva para os setores financeiro e industrial.
+*   **Engineering Excellence:** Implementação de práticas de **MLOps**, automação com GitHub Actions e gestão de ambientes performáticos com `uv`.
+  
 
-  <p style="font-family: monospace; color: #00ff66; font-size: 12px; letter-spacing: 1px;">
-    [ SYSTEM STATUS: ONLINE // ACCESS PORTAL BELOW ]
-  </p>
 
-  <br>
+### Projetos em Destaque no Hub
 
-  <!-- BOTÃO DIRETO PARA O PAGES -->
-  <a href="https://area-41.github.io/area-41/">
-    <img src="https://img.shields.io/badge/%E2%8F%81_ENTRAR_NO_PORTAL_OFICIAL-00FF66?style=for-the-badge&logo=githubpages&logoColor=black" alt="Acessar GitHub Pages da Área 41" height="45">
-  </a>
+| Projeto | Domínio | Status |
+| :--- | :--- | :--- |
+| **[RPA & Automações](https://github.com/area-41/RPA)** | `FastAPI`, `Selenium`, `Tesseract OCR`, `uv` | Automação de Processos & Ingestão | `Ativo` |
+| **[Computação Distribuída](https://github.com/area-41/Computacao_Distribuida)** | TCP, UDP, Multithread, Multicast | `Estudos e Aprimoramentos` |
+| **[Pipeline de Dados Medalhão](https://github.com/area-41/DuckDB-Dagster-Dask-Polars)** | `DuckDB + Dagster + Dask + Polars` | `Em Desenvovlimento` |
+| **[SugeStock](https://github.com/area-41/Sugestock)** | Fintech / Predição | `Em Produção` |
+| **[ML e AI](https://github.com/area-41/IA)** | IA | `Algoritmos de Inteligência Artificial` |
+| **[Python](https://github.com/area-41/Python)** | Códigos vários níveis | `Estudos e Aprimoramentos` |
 
-</div>
+---
+
+### Desenvolvimento Colaborativo
+A Area-41 é um espaço aberto. Acreditamos que a tecnologia deve ser livre, acessível e voltada ao impacto social.
+*   **Open Source:** Contribuições em projetos para melhorias contínuas.
+*   **Networking:** Interessado em colaborações em pipelines de dados e arquiteturas escaláveis.
+
+
+### Sobre o Desenvolvedor
+Para informações detalhadas sobre as certificações, formação acadêmica na **UTFPR**, stack tecnológica completa e contatos profissionais:
+
+👉 **[Acesse o perfil do autor aqui](./AUTHOR.md)**
+
+---
+<p align="center">
+  <i>"Minerando e lapidando dados para gerar valor social e tecnológico."</i>
+</p>
+
+
+[![GitHub Profile](https://img.shields.io/badge/GitHub-area--41-181717?style=flat&logo=github&logoColor=white)](https://github.com/area-41)
+[![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Data Engineering](https://img.shields.io/badge/Data_Engineering-Pipeline_&_MLOps-0052CC?style=flat)](https://github.com/area-41)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat)](https://opensource.org/licenses/MIT)
+
+
